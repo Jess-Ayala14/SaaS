@@ -47,6 +47,26 @@
 
 			widgets.rootWidgetMap[["s-Rectangle_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Rectangle", "s-Rectangle_1"]; 
 
+	widgets.descriptionMap[["s-Tab_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Tab_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+
+	widgets.descriptionMap[["s-Tab_4", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Tab_4", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+
+	widgets.descriptionMap[["s-Tab_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Tab_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+
+	widgets.descriptionMap[["s-Tab_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Tab_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+
+	widgets.descriptionMap[["s-Buttons", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Buttons", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
@@ -63,29 +83,21 @@
 
 			widgets.rootWidgetMap[["s-Profile", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
 
-	widgets.descriptionMap[["s-Paragraph_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+	widgets.descriptionMap[["s-Paragraph_4", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Paragraph_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+			widgets.rootWidgetMap[["s-Paragraph_4", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
 
 	widgets.descriptionMap[["s-Contact", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Contact", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
 
-	widgets.descriptionMap[["s-Tab_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+	widgets.descriptionMap[["s-Paragraph_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Tab_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+			widgets.rootWidgetMap[["s-Paragraph_3", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
 
-	widgets.descriptionMap[["s-Tab_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+	widgets.descriptionMap[["s-Panel_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Tab_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
-
-	widgets.descriptionMap[["s-Tab_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Tab_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
-
-	widgets.descriptionMap[["s-Buttons", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Buttons", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
+			widgets.rootWidgetMap[["s-Panel_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Tabs", "s-Tabs_horizontal"]; 
 
 	widgets.descriptionMap[["s-Bg", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
@@ -102,6 +114,26 @@
 	widgets.descriptionMap[["s-Rectangle_7", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Rectangle_7", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Nav vertical", "s-Vertical_nav"]; 
+
+	widgets.descriptionMap[["s-Text_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Text_1", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Navbar external content", "s-Navbar_external_c"]; 
+
+	widgets.descriptionMap[["s-Text_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Text_2", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Navbar external content", "s-Navbar_external_c"]; 
+
+	widgets.descriptionMap[["s-cover", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-cover", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Navbar external content", "s-Navbar_external_c"]; 
+
+	widgets.descriptionMap[["s-Menu_Icon", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Menu_Icon", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Menu", "s-Menu_Icon"]; 
+
+	widgets.descriptionMap[["s-Items", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Items", "d5035b0d-1d47-4acf-beca-cb92fce32f51"]] = ["Navbar external content", "s-Navbar_external_c"]; 
 
 	widgets.descriptionMap[["s-Bg", "9e3d0388-846f-4832-8c11-ae052226143c"]] = ""; 
 
@@ -158,34 +190,6 @@
 	widgets.descriptionMap[["s-Paragraph_1", "edbae4c7-568e-4e8b-8f64-be9a0d4a198b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "edbae4c7-568e-4e8b-8f64-be9a0d4a198b"]] = ["Paragraph", "s-Paragraph_1"]; 
-
-	widgets.descriptionMap[["s-Bg", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Bg", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
-
-	widgets.descriptionMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
-
-	widgets.descriptionMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
-
-	widgets.descriptionMap[["s-Rectangle_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Rectangle_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
-
-	widgets.descriptionMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h1", "s-Paragraph_2"]; 
-
-	widgets.descriptionMap[["s-Image", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Image", "s-Image"]; 
-
-	widgets.descriptionMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Paragraph", "s-Paragraph_1"]; 
 
 	widgets.descriptionMap[["s-Bg", "94b28adc-dcb4-4a62-9a05-ea928254a266"]] = ""; 
 
@@ -250,6 +254,34 @@
 	widgets.descriptionMap[["s-Button_1", "94b28adc-dcb4-4a62-9a05-ea928254a266"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Button_1", "94b28adc-dcb4-4a62-9a05-ea928254a266"]] = ["Primary button", "s-Button_1"]; 
+
+	widgets.descriptionMap[["s-Bg", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Bg", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
+
+	widgets.descriptionMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Rectangle_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
+
+	widgets.descriptionMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Rectangle_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
+
+	widgets.descriptionMap[["s-Rectangle_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Rectangle_4", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Nav base", "s-Base_nav"]; 
+
+	widgets.descriptionMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["h1", "s-Paragraph_2"]; 
+
+	widgets.descriptionMap[["s-Image", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Image", "s-Image"]; 
+
+	widgets.descriptionMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_1", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Paragraph", "s-Paragraph_1"]; 
 
 	widgets.descriptionMap[["s-Bg", "8de64932-9241-49d3-8f32-e7263be08d66"]] = ""; 
 

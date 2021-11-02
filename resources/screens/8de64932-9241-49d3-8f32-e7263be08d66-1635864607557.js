@@ -70,6 +70,14 @@ jQuery("#simulation")
                   } ],
                   "exectype": "serial",
                   "delay": 0
+                },
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/d5035b0d-1d47-4acf-beca-cb92fce32f51"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
                 }
               ]
             }
@@ -279,97 +287,5 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    }
-  })
-  .on("mouseleave dragleave", ".s-8de64932-9241-49d3-8f32-e7263be08d66 .mouseleave", function(event, data) {
-    var jEvent, jFirer, cases;
-    if(jimUtil.isAlternateModeActive()) return;
-    if(data === undefined) { data = event; }
-    jEvent = jimEvent(event);
-    jFirer = jEvent.getDirectEventFirer(this);
-    if(jFirer.is("#s-Button_1") && (jQuery(document.elementFromPoint(event.clientX, event.clientY)).closest("#s-Button_1").length === 0 || jQuery(document.elementFromPoint(event.clientX, event.clientY)).closest("#s-Button_1") !== jFirer)) {
-      event.stopPropagation();
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "target": [ "#s-8de64932-9241-49d3-8f32-e7263be08d66 #s-Button_1 > .backgroundLayer > .colorLayer" ],
-                    "attributes": {
-                      "background-color": "#007BFF"
-                    }
-                  },{
-                    "target": [ "#s-8de64932-9241-49d3-8f32-e7263be08d66 #s-Button_1 > .backgroundLayer > .imageLayer" ],
-                    "attributes": {
-                      "background-attachment": "scroll",
-                      "background-image": "none"
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    }
-  })
-  .on("mouseenter dragenter", ".s-8de64932-9241-49d3-8f32-e7263be08d66 .mouseenter", function(event, data) {
-    var jEvent, jFirer, cases;
-    if(jimUtil.isAlternateModeActive()) return;
-    if(data === undefined) { data = event; }
-    jEvent = jimEvent(event);
-    jFirer = jEvent.getDirectEventFirer(this);
-    if(jFirer.is("#s-Button_1") && jFirer.has(event.relatedTarget).length === 0) {
-      event.backupState = true;
-      event.target = jFirer;
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "target": [ "#s-8de64932-9241-49d3-8f32-e7263be08d66 #s-Button_1 > .backgroundLayer > .colorLayer" ],
-                    "attributes": {
-                      "background-color": "#0069D9"
-                    }
-                  },{
-                    "target": [ "#s-8de64932-9241-49d3-8f32-e7263be08d66 #s-Button_1 > .backgroundLayer > .imageLayer" ],
-                    "attributes": {
-                      "background-attachment": "scroll",
-                      "background-image": "none"
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      jEvent.launchCases(cases);
-    }
-  })
-  .on("mouseleave dragleave", ".s-8de64932-9241-49d3-8f32-e7263be08d66 .mouseleave", function(event, data) {
-    var jEvent, jFirer, cases;
-    if(jimUtil.isAlternateModeActive()) return;
-    if(data === undefined) { data = event; }
-    jEvent = jimEvent(event);
-    jFirer = jEvent.getDirectEventFirer(this);
-    if(jFirer.is("#s-Button_1")) {
-      jEvent.undoCases(jFirer);
     }
   });
